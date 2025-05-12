@@ -9,3 +9,4 @@ makeUrl("/users");
 
 // @ts-expect-error
 makeUrl("users/1");
+
